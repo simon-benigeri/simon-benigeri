@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/master/resume_simon_benigeri.pdf)🤓
+You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/main/resume_simon_benigeri.pdf)🤓
 
 ### Technologies I'm familiar with 🔬
 
