@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **simon-benigeri/simon-benigeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi everyone 👋
 
 You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/master/resume_simon_benigeri.pdf)🤓
 
