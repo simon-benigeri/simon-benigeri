@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on an MS in Artificial Intelligence degree at Northwestern University.
 
 You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/main/resume_simon_benigeri.pdf)🤓
 
 ### Technologies I'm familiar with 🔬
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 **Tools:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
@@ -31,7 +33,13 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![spaCy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logoColor=white) 
 ![neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&=docker&logoColor=white)
 
-**Techniques:**  
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-7400B8?style=for-the-badge&logoColor=white) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-6930C3?style=for-the-badge&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-5390D9?style=for-the-badge&logoColor=white)  
-![Computer Vision](https://img.shields.io/badge/Computer%20vision-4EA8DE?style=for-the-badge&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/Natural%20language%20processing-48BFE3?style=for-the-badge&logoColor=white) ![Optical Character Recognition](https://img.shields.io/badge/Optical%20Character%20Recognition-56CFE1?style=for-the-badge&logoColor=white) ![Data Mining](https://img.shields.io/badge/Data%20mining-64DFDF?style=for-the-badge&logoColor=white)
+**Interests:**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7400B8?style=for-the-badge&logoColor=white) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6930C3?style=for-the-badge&logoColor=white) 
+![Deep Reinforcement Learning](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) 
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-48BFE3?style=for-the-badge&logoColor=white) 
+![Knowledge Representations and Reasoning](https://img.shields.io/badge/Knowledge%20Representations%20and%20Reasoning-150458?style=for-the-badge&logoColor=white) 
+![Qualitative Reasoning](https://img.shields.io/badge/Qualitative%20Reasoning%20-008CC1?style=for-the-badge&logoColor=white) 
