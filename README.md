@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on an MS in Artificial Intelligence degree at Northwestern University.
+🔭 I’m currently working on a Master of Science in Artificial Intelligence at Northwestern University.
 
 You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/main/resume_simon_benigeri.pdf)
 
