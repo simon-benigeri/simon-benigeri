@@ -41,5 +41,5 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6930C3?style=for-the-badge&logoColor=white) 
 ![Deep Reinforcement Learning](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) 
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-48BFE3?style=for-the-badge&logoColor=white) 
-![Knowledge Representations and Reasoning](https://img.shields.io/badge/Knowledge%20Representations%20and%20Reasoning-150458?style=for-the-badge&logoColor=white) 
+![Knowledge Representations And Reasoning](https://img.shields.io/badge/Knowledge%20Representations%20And%20Reasoning-150458?style=for-the-badge&logoColor=white) 
 ![Qualitative Reasoning](https://img.shields.io/badge/Qualitative%20Reasoning%20-008CC1?style=for-the-badge&logoColor=white) 
