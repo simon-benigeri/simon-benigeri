@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on an MS in Artificial Intelligence degree at Northwestern University.
 
-You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/main/resume_simon_benigeri.pdf)🤓
+You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/main/resume_simon_benigeri.pdf)
 
 ### Technologies I'm familiar with 🔬
 
