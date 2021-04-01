@@ -27,9 +27,12 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 **Tools:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![spaCy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white)
+![spaCy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logoColor=white) 
+![neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 **Techniques:**  
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-7400B8?style=for-the-badge&logoColor=white) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-6930C3?style=for-the-badge&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-5390D9?style=for-the-badge&logoColor=white)  
