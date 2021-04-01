@@ -34,9 +34,8 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibm-watson&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&=docker&logoColor=white) 
 
 **Interests:**  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7400B8?style=for-the-badge&logoColor=white) 
