@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on a Master of Science in Artificial Intelligence at Northwestern University.
+
+🔭 I’m currently pursuing a Master of Science in Artificial Intelligence at Northwestern University.  
+🇫🇷 I'm from Paris, France.  
+⚡ Previously I worked for IBM's Watson and AI team in France, taking on data scientist and developper roles to build cognitive computing solutions for clients in industries like investment banking, construction, transport, HR, and IT support. There my focus was leveraging machine learning and knowledge bases to build applications in NLP, like information extraction, document search, and conversational AI.  
+🌱 I’m currently learning about deep generative models, statistical langugae modeling, qualitative reasoning, and the mathematical and algorithmic foundations of data science.  
 
 You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/main/resume_simon_benigeri.pdf)
 
