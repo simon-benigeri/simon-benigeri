@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m Simon. I study Artificial Intelligence at Northwestern University (MS). I'm from Paris, France where I worked for IBM's Watson and AI team. 
+🔭 I’m Simon. I study Artificial Intelligence at Northwestern University (MS). I'm from Paris, France, where I worked for IBM's Watson and AI team. 
 
 🌱 I’m currently working on projects in deep generative models, statistical langugae modeling, qualitative reasoning, and the mathematical and algorithmic foundations of data science.
 
