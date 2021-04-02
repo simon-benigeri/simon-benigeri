@@ -48,3 +48,4 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-48BFE3?style=for-the-badge&logoColor=white) 
 ![Knowledge Representations And Reasoning](https://img.shields.io/badge/Knowledge%20Representations%20And%20Reasoning-150458?style=for-the-badge&logoColor=white) 
 ![Qualitative Reasoning](https://img.shields.io/badge/Qualitative%20Reasoning%20-008CC1?style=for-the-badge&logoColor=white) 
+![Deep Generative Models](https://img.shields.io/badge/Deep%G20Generative%20Models-EE4C2C?style=for-the-badge&logoColor=white) 
