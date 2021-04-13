@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m Simon. I study Artificial Intelligence at Northwestern University (MS). I'm from Paris, France, where I worked for IBM's Watson and AI team. 
+🔭 I’m Simon. I study Artificial Intelligence at Northwestern University (MS). I'm from Paris, France, where I worked for IBM's Watson and AI consulting team. 
 
 🌱 I’m currently working on projects in deep generative models, statistical langugae modeling, qualitative reasoning, and the mathematical and algorithmic foundations of data science.
 
@@ -53,4 +53,3 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-48BFE3?style=for-the-badge&logoColor=white) 
 ![Knowledge Representations And Reasoning](https://img.shields.io/badge/Knowledge%20Representations%20And%20Reasoning-150458?style=for-the-badge&logoColor=white) 
 ![Qualitative Reasoning](https://img.shields.io/badge/Qualitative%20Reasoning%20-008CC1?style=for-the-badge&logoColor=white) 
-![Deep Generative Models](https://img.shields.io/badge/Deep%20Generative%20Models-EE4C2C?style=for-the-badge&logoColor=white) 
