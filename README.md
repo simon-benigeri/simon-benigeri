@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - simonbenigeri2021@u.northwestern.edu
 - https://www.linkedin.com/in/simon-benigeri-30993338/
 
-You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/files/7065850/Simon.Benigeri.Resume.08_2021_ML_Engineer.pdf)
+You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/files/7065923/Simon.Benigeri.Resume.08_2021_ML_Engineer.pdf)
 
 ### Technologies I'm familiar with 🔬
 
