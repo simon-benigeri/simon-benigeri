@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 🔭 I’m Simon. I study Artificial Intelligence at Northwestern University (MS). I'm from Paris, France, where I worked for IBM's Watson and AI consulting team. 
 
-🌱 I’m currently working on projects in deep generative models, statistical langugae modeling, qualitative reasoning, and the mathematical and algorithmic foundations of data science.
+🌱 I’m currently working on projects in statistical language modeling. The first aims to automatically generate stories. I work on dialogue and I use large language models to generate character dialogue and experiment on approaches to control the emotion of a response. The second is aims to improve the readability of text, like news articles. I experiment with  neural architectures to improve the readability of sentences. Eg. Tagger models, sequence to sequence models, and reinforcement learning frameworks. Also I experiment to improve the evaluation of text simplification systems by researching methods to measure semantic similarity of texts.
 
-⚡ Also, I’m searching for summer internships. If you're hiring, please reach out!  
+
+⚡ I’m searching for full time AI/ML engineering roles in January 2022. If you're hiring, please reach out!  
 
 📫 How to reach me:
 - simonbenigeri2021@u.northwestern.edu
 - https://www.linkedin.com/in/simon-benigeri-30993338/
 
-You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/raw/main/resume_simon_benigeri.pdf)
+You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/files/7065850/Simon.Benigeri.Resume.08_2021_ML_Engineer.pdf)
 
 ### Technologies I'm familiar with 🔬
 
