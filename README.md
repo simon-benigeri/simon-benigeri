@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - simonbenigeri2021@u.northwestern.edu
 - https://www.linkedin.com/in/simon-benigeri-30993338/
 
-You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/files/7070901/Simon.Benigeri.Resume.08_2021_ML_Engineer.pdf)
+You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/files/7179499/SB_ml_engineer_resume_09_2021.pdf)
+
 
 🌱 At Northwestern I work on research projects in statistical language modeling. 
 - Automatically generating stories. Our current focus is on generating call and response character dialogue and to achieve control over the sentiment of a character's response. [Project repo link](https://github.com/simon-benigeri/narrative-generation)
