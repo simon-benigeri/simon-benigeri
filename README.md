@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 🔭 I’m Simon. I study Artificial Intelligence at Northwestern University (MS). I'm from Paris, France, where I worked for IBM's Watson and AI consulting team. 
 
-🌱 I’m currently working on projects in statistical language modeling. The first aims to automatically generate stories. I work on dialogue and I use large language models to generate character dialogue and experiment on approaches to control the emotion of a response. The second is aims to improve the readability of text, like news articles. I experiment with  neural architectures to improve the readability of sentences. Eg. Tagger models, sequence to sequence models, and reinforcement learning frameworks. Also I experiment to improve the evaluation of text simplification systems by researching methods to measure semantic similarity of texts.
-
-
 ⚡ I’m searching for full time AI/ML engineering roles in January 2022. If you're hiring, please reach out!  
 
 📫 How to reach me:
@@ -27,6 +24,16 @@ Here are some ideas to get you started:
 - https://www.linkedin.com/in/simon-benigeri-30993338/
 
 You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/files/7070901/Simon.Benigeri.Resume.08_2021_ML_Engineer.pdf)
+
+🌱 At Northwestern I work on research projects in statistical language modeling. 
+- Automatically generating stories. Our current focus is on generating call and response character dialogue and to achieve control over the sentiment of a character's response. [Project repo link](https://github.com/simon-benigeri/narrative-generation)
+- Improving the readability of news articles. The repo is private because we work with the Newsela dataset. Our current focus is on improving metrics for text symplification systems. A good text simplification is fluent, simpler than the source text, and preserves the meaning of the source text. Our experiments have shifted to measuring semantic similary of two sentences.
+
+⚡ I'm always trying to learn. Here are some of my recent projects:
+- [Dope image classifier](https://github.com/bloodclot-inc/dope-image-classifier). My friend `mkobbi` and I wanted to improve our engineering skills. Also, you can get lost in all the ML engineering tools. So we chose a simple project, like image classification on CIFAR10, and we focus on the ML engineering aspects. It's a good way to to get experience with technologies like Pytorch lightning, optuna, weights and biases, bentoML, etc. The repo is private for now.
+- [Learning about transformers](https://github.com/simon-benigeri/learning-about-transformers) is a project where I implement a transformer architecture for myself. Much of the research I read leverages transformer based architectures.
+- [Improving financial trading decisions with deep RL and transfer learning](https://github.com/lukesalamone/deep-q-trading-agent) is a project where my colleagues and I implement a Deep Q learning agent to trade stocks. We "made profit" on past data but don't use this agent for your own investments.
+- [LSTM language model](https://github.com/simon-benigeri/lstm-language-model) is a project where my colleagues and I learned to train a language model with LSTM. We train on Wikitext-2 and a corpus we created from downloading NY Times covid-19 related articles
 
 
 ### Technologies I'm familiar with 🔬
@@ -52,6 +59,7 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7400B8?style=for-the-badge&logoColor=white) 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6930C3?style=for-the-badge&logoColor=white) 
 ![Deep Reinforcement Learning](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) 
+![Statistical Language Modeling](https://img.shields.io/badge/Statistical%20Language%20Modeling-48BFE3?style=for-the-badge&logoColor=white) 
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-48BFE3?style=for-the-badge&logoColor=white) 
 ![Knowledge Representations And Reasoning](https://img.shields.io/badge/Knowledge%20Representations%20And%20Reasoning-150458?style=for-the-badge&logoColor=white) 
 ![Qualitative Reasoning](https://img.shields.io/badge/Qualitative%20Reasoning%20-008CC1?style=for-the-badge&logoColor=white) 
