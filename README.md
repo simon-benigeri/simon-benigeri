@@ -27,7 +27,7 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 
 🌱 At Northwestern I work on research projects in statistical language modeling. 
 - Automatically generating stories. Our current focus is on generating call and response character dialogue and to achieve control over the sentiment of a character's response. [Project repo link](https://github.com/simon-benigeri/narrative-generation)
-- Improving the readability of news articles. The repo is private because we work with the Newsela dataset. Our current focus is on improving metrics for text symplification systems. A good text simplification is fluent, simpler than the source text, and preserves the meaning of the source text. Our experiments have shifted to measuring semantic similary of two sentences.
+- Improving the readability of news articles. The repo is private because we work with the Newsela dataset. A good text simplification is fluent, simpler than the source text, and preserves the meaning of the source text. We decided to focus is on improving metrics for these systems and we are experimenting with methods that measure the semantic similary of two sentences.
 
 ⚡ I'm always trying to learn. Here are some of my recent projects:
 - [Dope image classifier](https://github.com/bloodclot-inc/dope-image-classifier). My friend `mkobbi` and I wanted to improve our engineering skills. Also, you can get lost in all the ML engineering tools. So we chose a simple project, like image classification on CIFAR10, and we focus on the ML engineering aspects. It's a good way to to get experience with technologies like Pytorch lightning, optuna, weights and biases, bentoML, etc. The repo is private for now.
