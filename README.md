@@ -35,6 +35,7 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 - [Learning about transformers](https://github.com/simon-benigeri/learning-about-transformers) is a project where I implement a transformer architecture for myself. Much of the research I read leverages transformer based architectures.
 - [Improving financial trading decisions with deep RL and transfer learning](https://github.com/lukesalamone/deep-q-trading-agent) is a project where my colleagues and I implement a Deep Q learning agent to trade stocks. We "made profit" on past data but don't use this agent for your own investments.
 - [LSTM language model](https://github.com/simon-benigeri/lstm-language-model) is a project where my colleagues and I learned to train a language model with LSTM. We train on Wikitext-2 and a corpus we created from downloading NY Times covid-19 related articles
+- [Low Precision Machine Learning](https://github.com/simon-benigeri/low_precision_ml). I set up a code base to run experiments that measure error due to training ML algorithms in low precision floating point representations. I also simululate stochastic rounding to see if it helps. The current repo uses a very simple model and toy datasets, but the code base can serve as boilerplate code to run these experiments on more interesting problems.
 
 
 ### Technologies I'm familiar with 🔬
