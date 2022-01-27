@@ -31,7 +31,7 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 - Improving the readability of news articles. The repo is private because we work with the Newsela dataset. A good text simplification is fluent, simpler than the source text, and preserves the meaning of the source text. We decided to focus is on improving metrics for these systems and we are experimenting with methods that measure the semantic similary of two sentences.
 
 ⚡ I'm always trying to learn. Here are some of my recent projects:
-- [Dope image classifier](https://github.com/bloodclot-inc/dope-image-classifier). My friend `mkobbi` and I chose a simple project, like image classification on CIFAR10, and we focus on the ML engineering aspects. It's a good way to to get experience with technologies like Pytorch-lightning, optuna, weights and biases, MLflow, bentoML, etc. The repo is private for now.
+- [Dope image classifier](https://github.com/kobe-org/dope-image-classifier). My friend `mkobbi` and I chose a simple project, like image classification on CIFAR10, and we focus on the ML engineering aspects. It's a good way to to get experience with technologies like Pytorch-lightning, optuna, weights and biases, MLflow, bentoML, etc.  
 - [Learning about transformers](https://github.com/simon-benigeri/learning-about-transformers) is a project where I implement a transformer architecture for myself. Much of the research I read leverages transformer based architectures.
 - [Improving financial trading decisions with deep RL and transfer learning](https://github.com/lukesalamone/deep-q-trading-agent) is a project where my colleagues and I implement a Deep Q learning agent to trade stocks. We "made profit" on past data but don't use this agent for your own investments.
 - [LSTM language model](https://github.com/simon-benigeri/lstm-language-model) is a project where my colleagues and I learned to train a language model with LSTM. We train on Wikitext-2 and a corpus we created from downloading NY Times covid-19 related articles
@@ -62,5 +62,3 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![Deep Reinforcement Learning](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) 
 ![Statistical Language Modeling](https://img.shields.io/badge/Statistical%20Language%20Modeling-48BFE3?style=for-the-badge&logoColor=white) 
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-48BFE3?style=for-the-badge&logoColor=white) 
-![Knowledge Representations And Reasoning](https://img.shields.io/badge/Knowledge%20Representations%20And%20Reasoning-150458?style=for-the-badge&logoColor=white) 
-![Qualitative Reasoning](https://img.shields.io/badge/Qualitative%20Reasoning%20-008CC1?style=for-the-badge&logoColor=white) 
