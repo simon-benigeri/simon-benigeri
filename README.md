@@ -15,27 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m Simon. I study Artificial Intelligence at Northwestern University (MS). I'm from Paris, France, where I worked for IBM's Watson and AI consulting team. 
+🔭 I’m Simon. I collaborate with physician-scientists to research novel applications of AI and machine learning for cardiovascular disease, with a particular focus on applied ML to health care delivery problems, deep learning with multimodal, longitudinal data, and the clinical area of heart failure within cardiovascular disease. I graduated from  the Northwestern University MS in AI program in March 2022. I'm from Paris, France, where I worked for IBM's Watson and AI consulting team for 3 years. 
 
-⚡ I’m searching for full time AI/ML engineering roles in January 2022. If you're hiring, please reach out!  
+⚡ I’m searching for full time AI/ML engineering roles. If you're hiring, please reach out! 
+
+The ideal role:
+- Focuses on solving clear problems, i.e., What problem are we solving? Can you give me an example? Why is this important?
+- Requires creating problem solving. I enjoy solving new problems. So an interesting job may require me to read papers to find ideas, or even to come up with something entirely new. 
 
 📫 How to reach me:
-- simonbenigeri2021@u.northwestern.edu
+- simon.benigeri@northwestern.edu
 - https://www.linkedin.com/in/simon-benigeri-30993338/
 
-You can download my resume [here](https://github.com/simon-benigeri/simon-benigeri/files/7179499/SB_ml_engineer_resume_09_2021.pdf)
 
+🌱 At Northwestern I worked on research projects in statistical language modeling. 
+- Evaluating out of domain robustness of neural abstractive summarization models (e.g., Pegasus, BART, T-5).
+- Delivering machine teaching teaching functionalities for an information extraction system.
 
-🌱 At Northwestern I work on research projects in statistical language modeling. 
-- Automatically generating stories. Our current focus is on generating call and response character dialogue and to achieve control over the sentiment of a character's response. [Project repo link](https://github.com/simon-benigeri/narrative-generation)
-- Improving the readability of news articles. The repo is private because we work with the Newsela dataset. A good text simplification is fluent, simpler than the source text, and preserves the meaning of the source text. We decided to focus is on improving metrics for these systems and we are experimenting with methods that measure the semantic similary of two sentences.
-
-⚡ I'm always trying to learn. Here are some of my recent projects:
-- [Dope image classifier](https://github.com/kobe-org/dope-image-classifier). My friend `mkobbi` and I chose a simple project, like image classification on CIFAR10, and we focus on the ML engineering aspects. It's a good way to to get experience with technologies like Pytorch-lightning, optuna, weights and biases, MLflow, bentoML, etc.  
+:school: I'm always trying to learn. Here are some of my recent personal projects:
+- [Dope image classifier](https://github.com/kobe-org/dope-image-classifier). My friend `mkobbi` and I chose a simple project, like image classification on CIFAR10, and we focus on the ML engineering aspects. It's a good way to to get experience with technologies like Pytorch-lightning, optuna, weights and biases, RedisAI, etc.  
 - [Learning about transformers](https://github.com/simon-benigeri/learning-about-transformers) is a project where I implement a transformer architecture for myself. Much of the research I read leverages transformer based architectures.
-- [Improving financial trading decisions with deep RL and transfer learning](https://github.com/lukesalamone/deep-q-trading-agent) is a project where my colleagues and I implement a Deep Q learning agent to trade stocks. We "made profit" on past data but don't use this agent for your own investments.
-- [LSTM language model](https://github.com/simon-benigeri/lstm-language-model) is a project where my colleagues and I learned to train a language model with LSTM. We train on Wikitext-2 and a corpus we created from downloading NY Times covid-19 related articles
-- [Low Precision Machine Learning](https://github.com/simon-benigeri/low_precision_ml). I set up a code base to run experiments that measure error due to training ML algorithms in low precision floating point representations. I also simululate stochastic rounding to see if it helps. The current repo uses a very simple model and toy datasets, but the code base can serve as boilerplate code to run these experiments on more interesting problems.
+- [Improving financial trading decisions with deep RL and transfer learning](https://github.com/lukesalamone/deep-q-trading-agent) is a project where my colleagues and I implement a Deep Q learning agent to trade stocks. We "made profit" on past data but don't use this agent for your own investments. 
+- [LSTM language model](https://github.com/simon-benigeri/lstm-language-model) is a project where my colleagues and I learned to train a word-level language model with LSTM. We train on 2 corpora: Wikitext-2 and NY Times articles on covid-19.
+- [Low Precision Machine Learning](https://github.com/simon-benigeri/low_precision_ml). I set up a code base to run experiments that measure error due to training ML algorithms in low precision floating point representations. I also simululate stochastic rounding to see if it helps. The current repo uses a very simple model and toy datasets. There is actually no error from training models in a low precision setting, but the code base can serve as boilerplate code to run these experiments on more interesting neural network architectures and datasets.
 
 
 ### Technologies I'm familiar with 🔬
@@ -48,7 +50,7 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) 
+![Snorkel](https://img.shields.io/badge/snorkel-D00000?style=for-the-badge&logo=snorkel&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![spaCy](https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) 
 ![neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
@@ -61,5 +63,5 @@ You can download my resume [here](https://github.com/simon-benigeri/simon-benige
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7400B8?style=for-the-badge&logoColor=white) 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6930C3?style=for-the-badge&logoColor=white) 
 ![Deep Reinforcement Learning](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-5E60CE?style=for-the-badge&logoColor=white) 
-![Statistical Language Modeling](https://img.shields.io/badge/Statistical%20Language%20Modeling-48BFE3?style=for-the-badge&logoColor=white) 
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-48BFE3?style=for-the-badge&logoColor=white) 
+![Weak Supervision](https://img.shields.io/badge/Weak%20Supervision-D00000?style=for-the-badge&logoColor=white)
