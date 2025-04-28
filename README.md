@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I am a PhD student in Artificial Intelligence at Northwestern University, advised by Professor Larry Birnbaum. My primary research areas are Natural Language Processing and Conversational AI. Our goal is to build practical conversational AI systems and we hope to do this by making LLMs more reliable and robust to task, domain, and conversational behaviors.
 
-I also perform data science and engineering work in collaboration with cardiology and AI researchers at the Northwestern Medicine [Center for Artificial Intelligence at the Bluhm Cardiovascular Institute (BCVI)](https://ai.heart.nm.org/).
+<!--I also perform data science and engineering work in collaboration with cardiology and AI researchers at the Northwestern Medicine [Center for Artificial Intelligence at the Bluhm Cardiovascular Institute (BCVI)](https://ai.heart.nm.org/).-->
 
 ⚡ I’m searching for AI/ML research internships during my PhD. If you're hiring, please reach out! 
 
