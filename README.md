@@ -27,7 +27,7 @@ The ideal role:
 📫 How to reach me:
 - simon.benigeri@northwestern.edu
 - https://www.linkedin.com/in/simon-benigeri-30993338/
-- My personal [website](simonbenigeri.com)
+- My personal [website](https://www.simonbenigeri.com)
 
 :school: I'm always trying to learn. Here are some of my recent personal projects:
 - [CalendarBot](https://github.com/simon-benigeri/calendar-bot/): A RAG chatbot for calendar event retrieval, using a hybrid approach (date-based and vector-based retrieval). It runs on Google Gemini and can be set up to work with your Google Calendar data.
